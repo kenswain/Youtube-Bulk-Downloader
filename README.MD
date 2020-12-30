@@ -2,6 +2,6 @@ I like to use youtube for research but sometimes I just dont have time to watch 
 
 Add the URLs you would like to download to the videos.txt file. Once there execute the script and wait. 
 
-'''python
+```python
 ./yt-bulk-download.py
-'''
+```
