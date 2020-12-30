@@ -1,11 +1,11 @@
 #!/usr/local/bin/python3
 
 import os
-filepath = 'ken.txt'
+filepath = 'videos.txt'
 with open(filepath) as fp:
     line = fp.readline()
     cnt = 1
-    os.chdir("/Users/kenswain/Movies/Youtube/")
+    os.chdir("{youtdir}")
     
     while line:
 #        print("line {}: {}".format(cnt, line.strip()))
