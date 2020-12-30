@@ -1,1 +1,1 @@
-Video URLs go here
+Video URLs go here, One per line. 
